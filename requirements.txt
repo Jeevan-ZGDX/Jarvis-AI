@@ -1,0 +1,8 @@
+
+pyttsx3
+psutil
+requests
+pywhatkit
+wikipedia
+gpiozero  # (Optional, used for Raspberry Pi)
+tkinter    # Should be pre-installed with Python
